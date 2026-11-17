@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "categories": [
+    {"id":"social-media","name":"Social Media","description":"Responsible growth, content and platform support.","icon":"social","color":"blue"},
+    {"id":"graphic-design","name":"Graphic Design","description":"Posters, banners and visual identities.","icon":"design","color":"purple"},
+    {"id":"international-numbers","name":"International Numbers","description":"Legitimate communication and availability information.","icon":"globe","color":"cyan"},
+    {"id":"otp-sms","name":"OTP & SMS Testing","description":"Consent-based testing and delivery for systems you own.","icon":"message","color":"green"},
+    {"id":"vehicle-services","name":"Vehicle Services","description":"Information and legally authorized documentation guidance.","icon":"vehicle","color":"orange"},
+    {"id":"licence-services","name":"Licence Services","description":"Application and documentation support.","icon":"licence","color":"yellow"},
+    {"id":"ai-subscriptions","name":"AI Tools & Plans","description":"Genuine tools, plans and subscription information.","icon":"spark","color":"pink"},
+    {"id":"website-development","name":"Website Development","description":"Fast, responsive websites for modern businesses.","icon":"web","color":"blue"},
+    {"id":"phone-information","name":"Phone Information","description":"Public, legitimate number format and region help.","icon":"phone","color":"cyan"}
+  ]
+}

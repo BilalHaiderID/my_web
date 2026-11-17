@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "faqs": [
+    {"question":"How do I place an order?","answer":"Open a service, choose a quantity if needed, and use the WhatsApp button. Your message is an enquiry for personal confirmation, not an automatic backend order."},
+    {"question":"Are the catalogue prices final?","answer":"No. They are clearly marked as sample guidance. Final availability, scope and price are confirmed directly on WhatsApp."},
+    {"question":"Do I need an account?","answer":"No. This is a frontend-only catalogue with no customer login or signup."},
+    {"question":"What services are not provided?","answer":"We do not provide stolen OTPs, verification bypass, unauthorized account access, private subscriber identities, deceptive engagement or unauthorized subscriptions."}
+  ]
+}
